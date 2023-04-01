@@ -5,7 +5,7 @@ const peso= 74;
 const alturaEmM = 1.73;
 
 
-let QuantidadeDeAguaDiariaEmML; //(Agua) * (peso)
+let QuantidadeDeAguaDiariaEmML; //(Agua) x (peso)
 QuantidadeDeAguaDiariaEmML = agua * peso;
 let imc; //peso / (altura) * (altura)
 imc = peso / alturaEmM / alturaEmM;
