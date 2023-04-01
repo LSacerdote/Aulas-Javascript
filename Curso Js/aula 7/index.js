@@ -1,6 +1,6 @@
 /* Rodrigo Fernandes Miranda tem
  40 anos, pesa 66 kg tem
- 1.66 de altura e seu imc é 23.95122659311947
+ 1.66 de altura e seu imc é 23.95
 Rodrigo Fernandes Miranda nasceu em 1983  */
 
 //const
